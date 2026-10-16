@@ -15,7 +15,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
       - name: Check public repository
         run: python scripts/check_public_repo.py
 
