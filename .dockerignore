@@ -1,0 +1,10 @@
+repro/
+docs/
+solver/
+integration_tests/
+wargame/server/tests/
+.secrets/
+dist/
+**/__pycache__/
+**/*.pyc
+**/.git/
